@@ -3,4 +3,4 @@ int y = 6;
 int sum = x + y;
 System.out.println(sum);
 
-pandi is a hero
+pandi is a puri
